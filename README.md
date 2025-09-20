@@ -1,8 +1,8 @@
 <h1 align="center">Luis Fernando Bermudez Duarte <br> Ingeniero de Sistemas
  </h1> 
-
-
-
+<br>
+CV:https://drive.google.com/file/d/1nVTF5hRUC4_QefpGISqJzcuqz3bilEE2/view?usp=sharing
+<br>
 <p align="left">
 <a href="https://www.linkedin.com/in/luis-bermudez0110110001100110/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href = "mailto:luis.251999@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
