@@ -24,7 +24,22 @@ y profundicé en conceptos clave de Java y Spring
 Boot. Se participe en el desarrollo de una
 plataforma de gestión de solicitudes de
 vacaciones para empleados, construida desde cero
-en Java, Spring Boot y Angular.<br>
+en Java, Spring Boot y Angular.<br><br>
+
+COMMUNITY MANAGER (FACEBOOK) MAY 2024 –
+OCTU 2024.
+Administración de Redes Sociales. Creación y
+publicación de contenido digital orientado a aumentar
+la interacción con la audiencia y generado con IA.
+Gestión de comunidad . Análisis básico de métricas de
+alcance e interacción. Manejo de datos con Power Bi.<br><br>
+FREELANCER – SOPORTE WEB (WORDPRESS)
+CODE SOFTWARE ABR 2025- JUN 2025.
+Brindé soporte técnico para una página desarrollada
+en WordPress. Realicé ajustes en diseño y solicitadas
+por la empresa. Aseguré el correcto funcionamiento del
+sitio web y la atención específicos del cliente.
+
 
 ESTUDIOS: <br><br>
 UNIVERSIDAD DEL MAGDALENA <br>
