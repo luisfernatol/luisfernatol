@@ -1,7 +1,7 @@
 <h1 align="center">Luis Fernando Bermudez Duarte <br> Ingeniero de Sistemas
  </h1> 
 <br>
-CV:https://drive.google.com/file/d/1nVTF5hRUC4_QefpGISqJzcuqz3bilEE2/view?usp=sharing
+CV:https://drive.google.com/file/d/1-WO6x0scOUytLkJrS1d6eM5fp9T081w3/view
 <br>
 <p align="left">
 <a href="https://www.linkedin.com/in/luis-bermudez0110110001100110/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
@@ -56,12 +56,11 @@ Técnico en sistemas <br>
 <br>
 
 <h2 >HABILIDADES Y HERRAMIENTAS DE SOFTWARE</h2><br>
-TENGO CONOCIMIENTO EN HTML, CSS,
-JAVASCRIPT, PHP, JAVA, FRAMEWORK COMO
+TENGO CONOCIMIENTO EN HTML,, JAVA, FRAMEWORK COMO
 SPRING BOOT Y ANGULAR. POWER BI, GOOGLE
-CLOUD , ANDROID STUDIO, LINUX. MANEJO
-BASICO BASES DE DATOS COMO MYSQL,
-POSTGRESQL.
+CLOUD , ANDROID STUDIO,,AZURE DATA FACTORY, LINUX. MANEJO BASICO BASES DE DATOS COMO
+MYSQL, SQLSERVER.
+
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
