@@ -8,58 +8,47 @@ CV:https://drive.google.com/file/d/1-WO6x0scOUytLkJrS1d6eM5fp9T081w3/view
 <a href = "mailto:luis.251999@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
-<h2>Informacion</h2>
+<h2>Información</h2>
 <!--Intro start-->
-
 <p align="left">
-Ingeniero de Sistemas recién egresado de la Universidad del Magdalena con conocimiento en programación.
-  Me considero una persona responsable y trabajadora, dispuesta a aprender y trabajar en equipo.
+Ingeniero de Sistemas recién egresado de la Universidad del Magdalena. Cuento con experiencia en desarrollo web y conocimientos en servicios de la nube como Google Cloud, además de estar certificado como Administrador Salesforce. He participado en proyectos de aplicaciones móviles y poseo habilidades adquiridas durante mis estudios universitarios, aplicadas en proyectos personales y semilleros, que me han permitido fortalecer mi capacidad de análisis y aprendizaje continuo.
 
-  EXPERIENCIA: <br><br>
-  Semillero Be Bolder: Java- Spring Boot
-Be Bolder Feb 2024- Abril 2024
-Colaboré en un entorno de aprendizaje guiado por
-tutores, donde fortalecí habilidades en desarrollo
-y profundicé en conceptos clave de Java y Spring
-Boot. Se participe en el desarrollo de una
-plataforma de gestión de solicitudes de
-vacaciones para empleados, construida desde cero
-en Java, Spring Boot y Angular.<br><br>
+<br><br>
+<strong>CERTIFICACIONES:</strong><br>
+🏆 Salesforce Certified Platform Administrator (Octubre 2026) - Credential ID: 8242724
 
-COMMUNITY MANAGER (FACEBOOK) MAY 2024 –
-OCTU 2024.
-Administración de Redes Sociales. Creación y
-publicación de contenido digital orientado a aumentar
-la interacción con la audiencia y generado con IA.
-Gestión de comunidad . Análisis básico de métricas de
-alcance e interacción. Manejo de datos con Power Bi.<br><br>
-FREELANCER – SOPORTE WEB (WORDPRESS)
-CODE SOFTWARE ABR 2025- JUN 2025.
-Brindé soporte técnico para una página desarrollada
-en WordPress. Realicé ajustes en diseño y solicitadas
-por la empresa. Aseguré el correcto funcionamiento del
-sitio web y la atención específicos del cliente.
+<br><br>
+<strong>EXPERIENCIA:</strong><br><br>
 
+🔹 <strong>Freelancer – Soporte Web (WordPress) | Code Software</strong><br>
+<em>Abril 2025 - Junio 2025</em><br>
+Brindé soporte técnico para una página desarrollada en WordPress. Realicé ajustes en diseño y solicitadas por la empresa. Aseguré el correcto funcionamiento del sitio web y la atención específicos del cliente.<br><br>
 
-ESTUDIOS: <br><br>
-UNIVERSIDAD DEL MAGDALENA <br>
-Carrera de Ingeniería de sistemas <br>
-2017-Diciembre 2023 <br> <br>
-SENA: SERVICIO NACIONAL DE APRENDIZAJE <br>
-2015-2016 <br>
-Técnico en sistemas <br>
+🔹 <strong>Community Manager (Facebook)</strong><br>
+<em>Mayo 2024 - Octubre 2024 | Septiembre 2025 - Julio 2026</em><br>
+Administración de Redes Sociales. Creación y publicación de contenido digital orientado a aumentar la interacción con la audiencia y generado con IA. Gestión de comunidad. Análisis básico de métricas de alcance e interacción.<br><br>
 
+🔹 <strong>Semillero Be Bolder: Java - Spring Boot</strong><br>
+<em>Febrero 2024 - Abril 2024</em><br>
+Colaboré en un entorno de aprendizaje guiado por tutores, donde fortalecí habilidades en desarrollo y profundicé en conceptos clave de Java y Spring Boot. Participé en el desarrollo de una plataforma de gestión de solicitudes de vacaciones para empleados, construida desde cero en Java, Spring Boot y Angular.<br><br>
 
-📫 Contacto: **luis.251999@gmail.com**
+<strong>ESTUDIOS:</strong><br><br>
+🎓 <strong>Universidad del Magdalena</strong><br>
+Carrera de Ingeniería de Sistemas (Febrero 2017 - Diciembre 2023)<br><br>
+
+🎓 <strong>SENA: Servicio Nacional de Aprendizaje</strong><br>
+Técnico en Sistemas<br><br>
+
+📫 <strong>Contacto:</strong> luis.251999@gmail.com | 📍 Medellín, Colombia<br>
+🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/luis-bermudez0110110001100110/">Luis Bermúdez</a>
 <!--Intro end-->
-  </p>
+</p>
 <br>
 
-<h2 >HABILIDADES Y HERRAMIENTAS DE SOFTWARE</h2><br>
-TENGO CONOCIMIENTO EN HTML,, JAVA, FRAMEWORK COMO
-SPRING BOOT Y ANGULAR. POWER BI, GOOGLE
-CLOUD , ANDROID STUDIO,,AZURE DATA FACTORY, LINUX. MANEJO BASICO BASES DE DATOS COMO
-MYSQL, SQLSERVER.
+<h2>HABILIDADES Y HERRAMIENTAS DE SOFTWARE</h2>
+<p align="left">
+Tengo conocimiento en HTML, Java, Python, JavaScript, Excel, Power BI, Google Cloud, Azure Data Factory, Android Studio, Linux y Salesforce. Manejo básico de bases de datos como MySQL y PostgreSQL.
+</p>
 
 <!--tech stack icons-->
 <p align="left">
