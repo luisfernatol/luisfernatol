@@ -1,7 +1,7 @@
 <h1 align="center">Luis Fernando Bermudez Duarte <br> Ingeniero de Sistemas
  </h1> 
 <br>
-CV:https://drive.google.com/file/d/1-WO6x0scOUytLkJrS1d6eM5fp9T081w3/view
+CV:https://drive.google.com/file/d/1TmX8wjcsV7vXSLa7le623ltTELN07IxB/view?usp=sharing
 <br>
 <p align="left">
 <a href="https://www.linkedin.com/in/luis-bermudez0110110001100110/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
@@ -16,31 +16,24 @@ Ingeniero de Sistemas recién egresado de la Universidad del Magdalena. Cuento c
 <br><br>
 <strong>CERTIFICACIONES:</strong><br>
 🏆 Salesforce Certified Platform Administrator (Octubre 2026) - Credential ID: 8242724
-
 <br><br>
 <strong>EXPERIENCIA:</strong><br><br>
-
 🔹 <strong>Freelancer – Soporte Web (WordPress) | Code Software</strong><br>
 <em>Abril 2025 - Junio 2025</em><br>
 Brindé soporte técnico para una página desarrollada en WordPress. Realicé ajustes en diseño y solicitadas por la empresa. Aseguré el correcto funcionamiento del sitio web y la atención específicos del cliente.<br><br>
-
 🔹 <strong>Community Manager (Facebook)</strong><br>
 <em>Mayo 2024 - Octubre 2024 | Septiembre 2025 - Julio 2026</em><br>
 Administración de Redes Sociales. Creación y publicación de contenido digital orientado a aumentar la interacción con la audiencia y generado con IA. Gestión de comunidad. Análisis básico de métricas de alcance e interacción.<br><br>
-
 🔹 <strong>Semillero Be Bolder: Java - Spring Boot</strong><br>
 <em>Febrero 2024 - Abril 2024</em><br>
 Colaboré en un entorno de aprendizaje guiado por tutores, donde fortalecí habilidades en desarrollo y profundicé en conceptos clave de Java y Spring Boot. Participé en el desarrollo de una plataforma de gestión de solicitudes de vacaciones para empleados, construida desde cero en Java, Spring Boot y Angular.<br><br>
-
 <strong>ESTUDIOS:</strong><br><br>
 🎓 <strong>Universidad del Magdalena</strong><br>
 Carrera de Ingeniería de Sistemas (Febrero 2017 - Diciembre 2023)<br><br>
-
 🎓 <strong>SENA: Servicio Nacional de Aprendizaje</strong><br>
 Técnico en Sistemas<br><br>
+📫 <strong>Contacto:</strong> luis.251999@gmail.com
 
-📫 <strong>Contacto:</strong> luis.251999@gmail.com | 📍 Medellín, Colombia<br>
-🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/luis-bermudez0110110001100110/">Luis Bermúdez</a>
 <!--Intro end-->
 </p>
 <br>
